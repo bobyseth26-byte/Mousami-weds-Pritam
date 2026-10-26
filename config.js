@@ -22,32 +22,32 @@ window.INVITE = {
   },
   gallery: [
     {
-      src: "Image/wedding.jpeg",
+      src: "Image/moment4.jpeg",
       alt: "Bengali groom in a topor offering sindoor to a bride in a red saree",
       wide: true
     },
     {
-      src: "Image/Mehendi.jpeg?v=2",
+      src: "Image/moment2.jpeg?v=2",
       alt: "Illustrated mehendi celebration with decorated hands and hanging umbrellas",
       wide: false
     },
     {
-      src: "Image/Haldi.jpeg?v=2",
+      src: "Image/moment3.jpeg",
       alt: "Illustrated haldi ceremony with marigolds and turmeric",
       wide: false
     },
     {
-      src: "assets/gallery/moment-1.svg",
+      src: "Image/moment6.jpg",
       alt: "Lotus and alpana artwork",
       wide: true
     },
     {
-      src: "assets/gallery/moment-3.svg",
+      src: "Image/moment5.jpeg",
       alt: "Bengali wedding topor",
       wide: false
     },
     {
-      src: "assets/gallery/moment-6.svg",
+      src: "Image/moment1.jpeg",
       alt: "Conch shell and lotus",
       wide: false
     }
